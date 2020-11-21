@@ -1,7 +1,4 @@
 <?php
-/** Author: Dilshod Khudoyarov */
-
-/** Telegram: @Dishkan2000 */
 
 namespace zetsoft\service\App\eyuf;
 namespace zetsoft\service\https;
